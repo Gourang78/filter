@@ -1,0 +1,160 @@
+body{
+
+    background-color: yellow;
+
+}
+
+.heading{
+
+    width: 100%;
+    font-size: 23px;
+    margin-top: 0px;
+    font-family: "PT Sans"
+
+}
+
+img{
+
+    margin-top: 50px;
+
+}
+
+.note{
+
+    width: 100%;
+    font-size: 18px;
+    margin-top: 0px;
+    font-family: "PT Sans";
+
+}
+
+canvas{
+
+    border-radius: 10px;
+    border: 5px solid white;
+    margin-top: 100px;
+
+}
+
+#save{
+
+    margin-top: 50px;
+    font-size: 23px;
+    font-family: "PT Sans";
+
+}
+
+.filter_button1{
+
+    position: absolute;
+    left: 100px;
+    margin-top: 230px;
+    border-radius: 50px;
+    height: 40px;
+    width: 40px;
+
+}
+
+.filter_button1:hover{
+
+    width: 60px;
+    height: 60px;
+
+}
+
+.filter_button2:hover{
+
+    width: 60px;
+    height: 60px;
+    
+}
+
+.filter_button2{
+
+    position: absolute;
+    right: 100px;
+    border-radius: 50px;
+    height: 40px;
+    width: 40px;
+
+}
+
+#mustache{
+
+    background-image : url("mustache_button.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+#glasses{
+
+    background-image : url("glasses_button.png");
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+#hat{
+
+    background-image : url("hat_button.png");
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+#horns{
+
+    background-image : url("horn_button.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+#rabbit{
+
+    background-image : url("rabbit_button.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+#helmet{
+
+    background-image : url("helmet_button.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+#clown{
+
+    background-image: url("clown_button.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+#mask{
+
+    background-image: url("mask_button.png");
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+#cap{
+
+    background-image: url("cap_button.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+#beanie{
+
+    background-image: url("beanie_button.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
